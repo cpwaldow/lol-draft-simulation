@@ -1,7 +1,11 @@
 import './App.css';
-
+import Title from './components/Title';
 function App() {
-  return <>App</>;
+  return (
+    <>
+      <Title />
+    </>
+  );
 }
 
 export default App;
