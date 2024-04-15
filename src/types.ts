@@ -52,3 +52,7 @@ export type ChampionPageStateType = {
     };
   };
 };
+
+export type PickOrderType = {
+  pickOrder: number[];
+};

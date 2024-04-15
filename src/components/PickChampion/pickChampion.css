@@ -1,0 +1,11 @@
+.pick_champion__container {
+  border: 2px solid rgb(44, 44, 44);
+  padding: 1rem;
+}
+
+.pick_champion--image__background {
+  width: 70px;
+  height: 70px;
+  border: 1px solid black;
+  background-size: cover;
+}
